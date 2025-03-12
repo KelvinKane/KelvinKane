@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Kelvin
-- 👀 I’m interested in Science, Maths & Programming
-- 🌱 I’m currently learning 10th standard (Junior High School)
-- 💞️ I’m looking to collaborate on Data Science
+- 👋 Hi, I’m Kelvin B. Kenn
 - 📫 kelvinfedri81@gmail.com
 
 <!---
